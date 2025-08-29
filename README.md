@@ -15,10 +15,13 @@ With a modern interface, fast search features, **M3U** playlist support, and ful
 - 🎛 Real-time volume control and player status
 
 ---
+## 📝 Changelog v2.1.1
+- Added Visualizer in the radio tab
+- Added playlist selection list
+---
 ### 📸 Screenshot
-<img width="900" height="650" alt="Screenshot 2025-08-26 222830" src="https://github.com/user-attachments/assets/94ec2ee7-a8a4-41b6-bca3-273044207a41" />
-<img width="900" height="651" alt="Screenshot 2025-08-26 222905" src="https://github.com/user-attachments/assets/025658bf-aa8f-495f-950a-4f1077235753" />
-<img width="899" height="651" alt="Screenshot 2025-08-26 222921" src="https://github.com/user-attachments/assets/1b6a3efa-e3fa-461c-9f7a-b85ac57b745a" />
+<img width="901" height="657" alt="Screenshot 2025-08-29 152303" src="https://github.com/user-attachments/assets/646627c5-6051-4b0e-8316-10fb2b28a2b1" />
+<img width="902" height="651" alt="Screenshot 2025-08-29 152520" src="https://github.com/user-attachments/assets/bf5beb34-7178-416a-b680-64d66ad3d798" />
 ---
 
 ## 📜 License
