@@ -15,8 +15,8 @@ With a modern interface, fast search features, **M3U** playlist support, and ful
 - 🎛 Real-time volume control and player status
 
 ---
-## 📝 Changelog v2.1.2
-- Added QSetting to save state  
+## 📝 Changelog v2.1.3
+- Update Radio Online
 ---
 ### 📸 Screenshot
 <img width="901" height="657" alt="Screenshot 2025-08-29 152303" src="https://github.com/user-attachments/assets/646627c5-6051-4b0e-8316-10fb2b28a2b1" />
