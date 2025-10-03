@@ -15,7 +15,8 @@ With a modern interface, fast search features, **M3U** playlist support, and ful
 - 🎛 Real-time volume control and player status
 
 ---
-## 📝 Changelog v2.1.4
+## 📝 Changelog v2.1.5
+- Update Framework
 - Rebuild with Nuitka for better performance
 ---
 ### 📸 Screenshot
