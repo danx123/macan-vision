@@ -1,7 +1,7 @@
 # 🐅 Macan Vision
 
 ## 📖 About
-**Macan Vision** is a lightweight desktop application based on **Python + PyQt6** that functions as a digital entertainment portal for watching online TV broadcasts and listening to streaming radio.
+**Macan Vision** is a lightweight desktop application based on **Python + PySide6** that functions as a digital entertainment portal for watching online TV broadcasts and listening to streaming radio.
 
 With a modern interface, fast search features, **M3U** playlist support, and full-screen mode, this application is designed to provide a simple, stable, and flexible multimedia experience.
 
@@ -15,7 +15,7 @@ With a modern interface, fast search features, **M3U** playlist support, and ful
 - 🎛 Real-time volume control and player status
 
 ---
-## 📝 Changelog v2.1.5
+## 📝 Changelog v2.1.6
 - Update Framework
 - Rebuild with Nuitka for better performance
 ---
