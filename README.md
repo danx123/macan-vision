@@ -15,9 +15,9 @@ With a modern interface, fast search features, **M3U** playlist support, and ful
 - 🎛 Real-time volume control and player status
 
 ---
-## 📝 Changelog v2.1.6
-- Update Framework
-- Rebuild with Nuitka for better performance
+## 📝 Changelog v2.2.0
+- Fix Window drag
+- Added new visualizer
 ---
 ### 📸 Screenshot
 <img width="901" height="657" alt="Screenshot 2025-08-29 152303" src="https://github.com/user-attachments/assets/646627c5-6051-4b0e-8316-10fb2b28a2b1" />
