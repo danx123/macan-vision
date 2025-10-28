@@ -13,15 +13,18 @@ With a modern interface, fast search features, **M3U** playlist support, and ful
 - ↔ Channel navigation with buttons and shortcuts
 - 🖥 Fullscreen mode with simple controls
 - 🎛 Real-time volume control and player status
+- Visualizer
+- Equalizer
 
 ---
-## 📝 Changelog v2.2.0
-- Fix Window drag
-- Added new visualizer
+## 📝 Changelog v2.3.0
+- Added Equalizer
 ---
 ### 📸 Screenshot
-<img width="901" height="657" alt="Screenshot 2025-08-29 152303" src="https://github.com/user-attachments/assets/646627c5-6051-4b0e-8316-10fb2b28a2b1" />
-<img width="902" height="651" alt="Screenshot 2025-08-29 152520" src="https://github.com/user-attachments/assets/bf5beb34-7178-416a-b680-64d66ad3d798" />
+<img width="898" height="647" alt="Screenshot 2025-10-28 195642" src="https://github.com/user-attachments/assets/314dbe63-fce6-4030-b0eb-8792519385b8" />
+<img width="900" height="646" alt="Screenshot 2025-10-28 195619" src="https://github.com/user-attachments/assets/7fccf7e3-ef62-47f2-a57d-af5c06625c5c" />
+
+
 ---
 
 ## 📜 License
