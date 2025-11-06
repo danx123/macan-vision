@@ -17,12 +17,15 @@ With a modern interface, fast search features, **M3U** playlist support, and ful
 - Equalizer
 
 ---
-## 📝 Changelog v2.3.0
-- Added Equalizer
+## 📝 Changelog v2.4.1
+- Changed engine using libvlc
+- Improve Performance
 ---
 ### 📸 Screenshot
-<img width="898" height="647" alt="Screenshot 2025-10-28 195642" src="https://github.com/user-attachments/assets/314dbe63-fce6-4030-b0eb-8792519385b8" />
-<img width="900" height="646" alt="Screenshot 2025-10-28 195619" src="https://github.com/user-attachments/assets/7fccf7e3-ef62-47f2-a57d-af5c06625c5c" />
+<img width="898" height="649" alt="Screenshot 2025-11-06 102632" src="https://github.com/user-attachments/assets/2d9cb381-0246-414a-9016-a6120c6d6c72" />
+<img width="900" height="652" alt="Screenshot 2025-11-06 102728" src="https://github.com/user-attachments/assets/2bc446b0-ef93-458f-97a1-f07a2622799f" />
+
+
 
 
 ---
