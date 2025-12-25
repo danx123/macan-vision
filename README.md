@@ -17,11 +17,12 @@ With a modern interface, fast search features, **M3U** playlist support, and ful
 - Equalizer
 
 ---
-## 📝 Changelog v3.1.1
-- Fixed Equalizer Preset
+## 📝 Changelog v3.2.0
+- Added Transparent Mode
 ---
 ### 📸 Screenshot
-<img width="898" height="649" alt="Screenshot 2025-11-06 102632" src="https://github.com/user-attachments/assets/2d9cb381-0246-414a-9016-a6120c6d6c72" />
+<img width="900" height="649" alt="Screenshot 2025-12-26 015258" src="https://github.com/user-attachments/assets/52444c15-0b9a-45fd-b594-8158a2f2d3eb" />
+
 
 ---
 
