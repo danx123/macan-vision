@@ -17,8 +17,9 @@ With a modern interface, fast search features, **M3U** playlist support, and ful
 - Equalizer
 
 ---
-## 📝 Changelog v3.2.0
-- Added Transparent Mode
+## 📝 Changelog v3.3.0
+- Optimized Startup time
+- Added caching system
 ---
 ### 📸 Screenshot
 <img width="900" height="649" alt="Screenshot 2025-12-26 015258" src="https://github.com/user-attachments/assets/52444c15-0b9a-45fd-b594-8158a2f2d3eb" />
