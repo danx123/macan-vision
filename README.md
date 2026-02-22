@@ -15,29 +15,15 @@ With a modern interface, fast search features, **M3U** playlist support, and ful
 - 🎛 Real-time volume control and player status
 - Visualizer
 - Equalizer
+- Stream Recording
 
----
-## 📝 Changelog v4.0.0
-- Major Improvements
-  - Database Engine Migration: Migrated the backend storage system from static JSON files to SQLite (MacanDatabase). This provides faster data access, better integrity for large channel lists, and more efficient filtering capabilities.
-  - Asynchronous Background Processing: Implemented a multi-threaded architecture for database operations. Channel fetching and updates now run in the background, ensuring the User Interface (UI) remains responsive and lag-free during data synchronization.
 
-- New Features
-  - Startup Loading Screen: Added a professional splash screen (Loading Screen) that appears during application launch. This screen handles the initialization of core components and fetches the latest channel list before the main window is displayed.
-  - In-App Update Checker: Introduced an automated update verification system located in the About Tab. The app now parses a remote version.json file to notify users whenever a new version is available.
-
-- UI/UX Enhancements
-  - Integrated Audio Visualizer: Redesigned the visualizer layout for a more compact and modern look. The waveform visualizer has been relocated from the main tab area to the bottom control bar, positioned precisely between the playback controls (Next button) and the volume slider.
-  - Dynamic Layout Refactoring: Improved the control bar aesthetics to ensure the visualizer scales fluidly with the window size.
-
-- Bug Fixes & Technical Debt
-  - Replaced synchronous network requests with QRunnable and QThreadPool to prevent "Application Not Responding" (ANR) states.
-  - Standardized application data paths using QStandardPaths for better cross-platform compatibility.
 
 ---
 ### 📸 Screenshot
 <img width="900" height="653" alt="Screenshot 2026-01-20 135233" src="https://github.com/user-attachments/assets/0290c7ea-1dc2-4b0f-9433-4137e61de11e" />
-<img width="900" height="647" alt="Screenshot 2026-01-20 135402" src="https://github.com/user-attachments/assets/e7fc5770-2628-4e56-8185-6743c23396de" />
+<img width="1060" height="723" alt="Screenshot 2026-02-22 223801" src="https://github.com/user-attachments/assets/f6551bdb-00b5-4136-a11c-49963f50b209" />
+
 
 
 
