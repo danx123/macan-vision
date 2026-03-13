@@ -21,7 +21,10 @@ With a modern interface, fast search features, **M3U** playlist support, and ful
 
 ---
 ### 📸 Screenshot
-<img width="900" height="653" alt="Screenshot 2026-01-20 135233" src="https://github.com/user-attachments/assets/0290c7ea-1dc2-4b0f-9433-4137e61de11e" />
+<img width="1060" height="725" alt="Screenshot 2026-03-13 203734" src="https://github.com/user-attachments/assets/a02b118a-71f7-4917-b249-707cc84716a2" />
+
+
+
 <img width="1060" height="723" alt="Screenshot 2026-02-22 223801" src="https://github.com/user-attachments/assets/f6551bdb-00b5-4136-a11c-49963f50b209" />
 
 
