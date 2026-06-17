@@ -5,6 +5,11 @@
 
 With a modern interface, fast search features, **M3U** playlist support, and full-screen mode, this application is designed to provide a simple, stable, and flexible multimedia experience.
 
+---
+<img width="1024" height="1536" alt="macan vision v6 5 0" src="https://github.com/user-attachments/assets/253878ed-7e33-4c52-8c7f-8765e69ad087" />
+---
+
+
 ### ✨ Main Features
 - 🎬 Online TV streaming (default: Indonesian IPTV via iptv-org)
 - 📻 Online radio streaming (default: Radio Browser API)
