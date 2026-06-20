@@ -6,7 +6,10 @@
 With a modern interface, fast search features, **M3U** playlist support, and full-screen mode, this application is designed to provide a simple, stable, and flexible multimedia experience.
 
 ---
-<img width="1024" height="1536" alt="macan vision v6 5 0" src="https://github.com/user-attachments/assets/253878ed-7e33-4c52-8c7f-8765e69ad087" />
+
+<img width="1536" height="2380" alt="macan vision v6 7 0" src="https://github.com/user-attachments/assets/33b09ec5-5397-4ae2-92d6-38aad113194c" />
+
+
 ---
 
 
