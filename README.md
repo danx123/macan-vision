@@ -1,5 +1,9 @@
 # 🐅 Macan Vision
 
+![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![Total Downloads](https://img.shields.io/github/downloads/danx123/macan-vision/total?style=flat-square&color=E8FF00&label=downloads)
+
 ## 📖 About
 **Macan Vision** is a lightweight desktop application based on **Python + PySide6** that functions as a digital entertainment portal for watching online TV broadcasts and listening to streaming radio.
 
