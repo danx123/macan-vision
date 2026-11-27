@@ -10,7 +10,8 @@ With a modern interface, fast search features, **M3U** playlist support, and ful
 
 ---
 
-<img width="1536" height="2380" alt="macan vision v6 7 0" src="https://github.com/user-attachments/assets/33b09ec5-5397-4ae2-92d6-38aad113194c" />
+<img width="1071" height="729" alt="image" src="https://github.com/user-attachments/assets/2e16fa4a-b140-488c-a9f4-2ec4923d006a" />
+
 
 
 ---
@@ -27,14 +28,6 @@ With a modern interface, fast search features, **M3U** playlist support, and ful
 - Visualizer
 - Equalizer
 - Stream Recording
-
-
-
----
-### 📸 Screenshot
-<img width="1059" height="717" alt="Screenshot 2026-06-17 212343" src="https://github.com/user-attachments/assets/2fcac325-14ba-4a9b-92be-9ab88c3a4819" />
-
-<img width="1060" height="724" alt="Screenshot 2026-06-17 212449" src="https://github.com/user-attachments/assets/d12ac4a1-f42b-4453-96c3-1894a14f148e" />
 
 ---
 
